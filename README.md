@@ -48,6 +48,12 @@
 
 ---
 
+### github stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakuvv&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
+
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=yakuvv&icon=0&color=0)](https://visitcount.itsvg.in)
