@@ -35,18 +35,12 @@
 ![C++](https://img.shields.io/badge/c++-%23002147?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%232c3e50?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23001f3f?style=for-the-badge&logo=ubuntu&logoColor=white)
-
----
-
-### github stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yakuvv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yakuvv&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-</p>
+![Bash](https://img.shields.io/badge/bash-%23001f3f?style=for-the-badge&logo=gnubash&logoColor=white)
+![React](https://img.shields.io/badge/react-%23001f3f?style=for-the-badge&logo=react&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23001f3f?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%231e3a8a?style=for-the-badge&logo=vite&logoColor=white)
+![MCP](https://img.shields.io/badge/mcp-%23001f3f?style=for-the-badge&logo=plugdotdj&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23001f3f?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
