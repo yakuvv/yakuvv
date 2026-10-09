@@ -1,7 +1,7 @@
 <h1 align="center">hey :)</h1>
 
 <p align="center">
-  <strong>BS Computer Science student</strong> on the <strong>Advanced Software Development</strong> track,<br>
+  currently a <strong>BS Computer Science student</strong> on the <strong>Advanced Software Development</strong> major,<br>
   building toward <strong>AI engineering</strong> with a focus on agents.<br>
   i enjoy building things, breaking them, and learning from both.
 </p>
