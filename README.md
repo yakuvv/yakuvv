@@ -1,14 +1,9 @@
 <h1 align="center">hey :)</h1>
 
 <p align="center">
-  currently a <strong>BS Computer Science student</strong> on the <strong>Advanced Software Development</strong> major.<br>
-  still figuring out where i fit in this field, i guess?<br>
-  i enjoy building things, breaking them, and learning from both.<br>
-  still upskilling.
-</p>
-
-<p align="center">
-  <sub>not very active here. most of my work lives on my main account.</sub>
+  <strong>BS Computer Science student</strong> on the <strong>Advanced Software Development</strong> track,<br>
+  building toward <strong>AI engineering</strong> with a focus on agents.<br>
+  i enjoy building things, breaking them, and learning from both.
 </p>
 
 <p align="center">
