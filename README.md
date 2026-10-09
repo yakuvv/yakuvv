@@ -11,13 +11,13 @@
 </p>
 
 ---
-
 ### currently focused on
 
-* getting a better grasp on **AI/ML**, still a lot to unpack
-* building mobile apps with **Flutter**, learning as i go
-* strengthening my **Python** and **DSA** fundamentals
-* slowly exploring **AI agents** and intelligent systems, working toward ai engineering
+* **AI agents** and intelligent systems
+* **Problem solving**
+* **Startups and business**
+* **Building and breaking things**, learning from what fails
+* **AI/ML** fundamentals
 
 ---
 
